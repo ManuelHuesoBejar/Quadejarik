@@ -13,9 +13,9 @@ git
 Name: Manuel Hueso Béjar
 About me: I love snowboarding!
 
-## <'First letter of your first name and each last name, it will also be the name of our branches'>
-Name: <'First name and last name'>
-About me: <'Something about you'>
+## APT
+Name: Adrián Paino Tena
+About me: I like pizza!
 
 ## <'First letter of your first name and each last name, it will also be the name of our branches'>
 Name: <'First name and last name'>
