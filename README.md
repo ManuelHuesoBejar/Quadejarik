@@ -13,9 +13,9 @@ git
 Name: Manuel Hueso Béjar
 About me: I love snowboarding!
 
-## <'First letter of your first name and each last name, it will also be the name of our branches'>
-Name: <'First name and last name'>
-About me: <'Something about you'>
+## RAD
+Name: Rodrigo Arjonilla Díaz
+About me: I used to be a semi-pro waterpolo player before I teared my ACL
 
 ## <'First letter of your first name and each last name, it will also be the name of our branches'>
 Name: <'First name and last name'>
