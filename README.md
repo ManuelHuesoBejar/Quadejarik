@@ -17,13 +17,13 @@ About me: I love snowboarding!
 Name: Adrián Paino Tena
 About me: I like pizza!
 
-## <'First letter of your first name and each last name, it will also be the name of our branches'>
-Name: <'First name and last name'>
-About me: <'Something about you'>
+## RAD
+Name: Rodrigo Arjonilla Díaz
+About me: I used to be a semi-pro waterpolo player before I teared my ACL
 
-## <'First letter of your first name and each last name, it will also be the name of our branches'>
-Name: <'First name and last name'>
-About me: <'Something about you'>
+## LHC
+Name: Laura Lucía Hernández Campos
+About me: I love taking pictures and I won a photography award 
 
 ## <'First letter of your first name and each last name, it will also be the name of our branches'>
 Name: <'First name and last name'>
