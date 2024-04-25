@@ -25,9 +25,9 @@ About me: I used to be a semi-pro waterpolo player before I teared my ACL
 Name: Laura Lucía Hernández Campos
 About me: I love taking pictures and I won a photography award 
 
-## <'First letter of your first name and each last name, it will also be the name of our branches'>
-Name: <'First name and last name'>
-About me: <'Something about you'>
+## SLM
+Name: Sergio López Moya
+About me: Do you love rugby an mountains? I do :)
 
 # Considerations
 For a safer work we have securized the repo with a 2 people confirmation for PR.
